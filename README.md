@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamilcobann
-- 🌱 I’m currently learning Laravel Framework, Building RESTful API's
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me -> kamil.cobann.0@icloud.com
 
 <!---
